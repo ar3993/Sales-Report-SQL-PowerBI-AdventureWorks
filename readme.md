@@ -18,6 +18,7 @@ Power BI was used to create an interactive dashboard containing all the relevant
 <img width="862" alt="Screenshot 2023-08-18 121851" src="https://github.com/ar3993/Sales-Report-SQL-PowerBI-AdventureWorks/assets/75899578/74733fd4-c5ce-447d-b769-fbdd4fe0f613">
 
 
+--
 
 
 <img width="655" alt="Dashboard_img" src="https://github.com/ar3993/Sales-Report-SQL-PowerBI-AdventureWorks/assets/75899578/eb986584-19d1-4a04-91ed-2fdba42ef4b4">
